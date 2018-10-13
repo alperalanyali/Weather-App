@@ -1,5 +1,5 @@
 # Weather-App
 
-This app was watched the videos of Devslopes
+This app was watched by following the videos of Devslopes
 
 You need to download Alamofire cocoapods first.
